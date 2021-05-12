@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_Yb2Z4LLBEeuKHduA1asdUQ" name="AdventureWorks" id="_41BWELLAEeuKHduA1asdUQ" label="AdventureWorks" dataPackage="_Y8UpsLLBEeuKHduA1asdUQ" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://sqlservercentralpublic.database.windows.net:1433/AdventureWorks;" dbVersionString="JTDS" Port="1433" Username="sqlfamily" Password="enc:system.encryption.key.v1:nlkcBNgAmwpf/mNDleDUPgxTpS0vQVuSq94Psw5hhB6fnrm0hA==" ServerName="sqlservercentralpublic.database.windows.net" DatasourceName="" FileFieldName="" SID="AdventureWorks" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="SalesLT">
+    <taggedValue xmi:id="_Yb42ILLBEeuKHduA1asdUQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_Yct8kLLBEeuKHduA1asdUQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_Yc3GgLLBEeuKHduA1asdUQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_Yc3GgbLBEeuKHduA1asdUQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_Yc3GgrLBEeuKHduA1asdUQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_Yc3Gg7LBEeuKHduA1asdUQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_Yc3GhLLBEeuKHduA1asdUQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_Yc3GhbLBEeuKHduA1asdUQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_YuIcsLLBEeuKHduA1asdUQ" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_YuIcsbLBEeuKHduA1asdUQ" tag="DB ProductVersion" value="12.00.2148"/>
+    <taggedValue xmi:id="_YuIcsrLBEeuKHduA1asdUQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_Yb42IbLBEeuKHduA1asdUQ" key="CONN_PARA_KEY_USERNAME" value="sqlfamily"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_Y8UpsLLBEeuKHduA1asdUQ" name="AdventureWorks" dataManager="_Yb2Z4LLBEeuKHduA1asdUQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_Y8V30LLBEeuKHduA1asdUQ" name="SalesLT"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Débora\Desktop\Gabriel\FIAP\MBA\DataOps\Grupo3-12abd\Talend\.metadata\.plugins\org.eclipse.jdt.core
+2105595414.index
+1024833835.index
+1242787514.index
+4218611137.index
+1617133847.index
+1987974601.index
